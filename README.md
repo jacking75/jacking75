@@ -1,4 +1,6 @@
-온라인 게임 서버 프로그래머.  
+<h1 align="center">Hi 👋, I'm Choi HeungBae</h1>  
+<h3 align="center">A Online GameServer developer in Korea</h3>  
+  
 2003년부터 온라인 게임의 서버(PC or Mobile)를 개발하고 있다.  
 NHN Next(2016~2017년)에 ‘C++ Advance’와 ‘게임 서버 개발’ 강의를 하였다.  
   
