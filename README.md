@@ -2,7 +2,8 @@
 <h3 align="center">A Online GameServer developer in Korea</h3>  
   
 2003년부터 온라인 게임의 서버(PC or Mobile)를 개발하고 있다.  
-NHN Next(2016~2017년)에 ‘C++ Advance’와 ‘게임 서버 개발’ 강의를 하였다.  
+NHN Next(2016~2017년)에 ‘C++ Advance’와 ‘게임 서버 개발’ 강의를 하였다. 
+현재는 컴투스에서 게임서버 개발 지원, R&D, 교육 관련 업무를 하고 있다.   
   
 깃허브의 나의 프로젝트는 주로 온라인 게임 서버 개발관 관련된 것으로 C++, C#, Golang, Rust 언어를 사용한다.  
   
