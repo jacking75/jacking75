@@ -19,11 +19,9 @@ NHN Next(2016~2017년)에 ‘C++ Advance’와 ‘게임 서버 개발’ 강의
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jacking75&layout=compact" />
-</a>
-
-<br>  
+</a>  
   
-https://bookshelf-generator.onrender.com/?isbns[]=9791140708819&isbns[]=9791169212144  
+<br>   
   
 <!--
 **jacking75/jacking75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
